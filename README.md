@@ -1,6 +1,3 @@
-mootools-validate
-=================
-
 # Mootools Validation module
 
 ## Overview
